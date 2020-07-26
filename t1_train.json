@@ -1,0 +1,520 @@
+{
+  "annotations": [
+    {
+      "bbox": [
+        3.295,
+        2.408,
+        33.0,
+        24.0
+      ],
+      "id": 5,
+      "area": 792.0,
+      "segmentation": [
+        [
+          3.295,
+          2.408,
+          36.247,
+          26.488
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 5,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        3.168,
+        2.788,
+        32.0,
+        28.0
+      ],
+      "id": 6,
+      "area": 896.0,
+      "segmentation": [
+        [
+          3.168,
+          2.788,
+          34.852,
+          30.671
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 5,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        4.942,
+        2.281,
+        49.0,
+        23.0
+      ],
+      "id": 10,
+      "area": 1127.0,
+      "segmentation": [
+        [
+          4.942,
+          2.281,
+          54.362,
+          25.094
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 17,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        2.788,
+        2.788,
+        28.0,
+        28.0
+      ],
+      "id": 11,
+      "area": 784.0,
+      "segmentation": [
+        [
+          2.788,
+          2.788,
+          30.668,
+          30.67
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 17,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        5.07,
+        2.662,
+        51.0,
+        27.0
+      ],
+      "id": 12,
+      "area": 1377.0,
+      "segmentation": [
+        [
+          5.07,
+          2.662,
+          55.77,
+          29.277
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 17,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        3.296,
+        2.788,
+        33.0,
+        28.0
+      ],
+      "id": 13,
+      "area": 924.0,
+      "segmentation": [
+        [
+          3.296,
+          2.788,
+          36.256,
+          30.67
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 10,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        3.549,
+        2.535,
+        35.0,
+        25.0
+      ],
+      "id": 20,
+      "area": 875.0,
+      "segmentation": [
+        [
+          3.549,
+          2.535,
+          39.036,
+          27.883
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 5,
+      "image_id": 7
+    },
+    {
+      "bbox": [
+        2.915,
+        2.662,
+        29.0,
+        27.0
+      ],
+      "id": 21,
+      "area": 783.0,
+      "segmentation": [
+        [
+          2.915,
+          2.662,
+          32.065,
+          29.278
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 5,
+      "image_id": 7
+    },
+    {
+      "bbox": [
+        16.856,
+        13.941,
+        169.0,
+        139.0
+      ],
+      "id": 1,
+      "area": 23491.0,
+      "segmentation": [
+        [
+          16.856,
+          13.941,
+          185.416,
+          153.354
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 1
+    },
+    {
+      "bbox": [
+        16.603,
+        17.363,
+        166.0,
+        174.0
+      ],
+      "id": 2,
+      "area": 28884.0,
+      "segmentation": [
+        [
+          16.603,
+          17.363,
+          182.633,
+          190.996
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 2
+    },
+    {
+      "bbox": [
+        15.969,
+        10.773,
+        160.0,
+        108.0
+      ],
+      "id": 3,
+      "area": 17280.0,
+      "segmentation": [
+        [
+          15.969,
+          10.773,
+          175.659,
+          118.501
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 3
+    },
+    {
+      "bbox": [
+        17.237,
+        17.744,
+        172.0,
+        177.0
+      ],
+      "id": 4,
+      "area": 30444.0,
+      "segmentation": [
+        [
+          17.237,
+          17.744,
+          189.602,
+          195.179
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 4
+    },
+    {
+      "bbox": [
+        18.377,
+        18.124,
+        184.0,
+        181.0
+      ],
+      "id": 14,
+      "area": 33304.0,
+      "segmentation": [
+        [
+          18.377,
+          18.124,
+          202.149,
+          199.361
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 5
+    },
+    {
+      "bbox": [
+        15.716,
+        16.73,
+        157.0,
+        167.0
+      ],
+      "id": 15,
+      "area": 26219.0,
+      "segmentation": [
+        [
+          15.716,
+          16.73,
+          172.876,
+          184.026
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 6
+    },
+    {
+      "bbox": [
+        14.068,
+        10.139,
+        141.0,
+        101.0
+      ],
+      "id": 16,
+      "area": 14241.0,
+      "segmentation": [
+        [
+          14.068,
+          10.139,
+          154.748,
+          111.53
+        ]
+      ],
+      "iscrowd": 0,
+      "category_id": 1,
+      "image_id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "supercategory": "Car",
+      "name": "Car"
+    },
+    {
+      "id": 2,
+      "supercategory": "Armor",
+      "name": "BlueArmor4"
+    },
+    {
+      "id": 3,
+      "supercategory": "Armor",
+      "name": "RedArmor1"
+    },
+    {
+      "id": 4,
+      "supercategory": "Armor",
+      "name": "RedArmor3"
+    },
+    {
+      "id": 5,
+      "supercategory": "Armor",
+      "name": "RedArmor2"
+    },
+    {
+      "id": 6,
+      "supercategory": "Armor",
+      "name": "RedArmor5"
+    },
+    {
+      "id": 7,
+      "supercategory": "Watcher",
+      "name": "Watcher"
+    },
+    {
+      "id": 8,
+      "supercategory": "Armor",
+      "name": "BlueArmor7"
+    },
+    {
+      "id": 9,
+      "supercategory": "Armor",
+      "name": "BlueArmor5"
+    },
+    {
+      "id": 10,
+      "supercategory": "Armor",
+      "name": "BlueArmor2"
+    },
+    {
+      "id": 11,
+      "supercategory": "Armor",
+      "name": "RedArmorNone"
+    },
+    {
+      "id": 12,
+      "supercategory": "Armor",
+      "name": "RedArmor8"
+    },
+    {
+      "id": 13,
+      "supercategory": "Armor",
+      "name": "RedArmor6"
+    },
+    {
+      "id": 14,
+      "supercategory": "Armor",
+      "name": "GreyArmor5"
+    },
+    {
+      "id": 15,
+      "supercategory": "Armor",
+      "name": "GreyArmor4"
+    },
+    {
+      "id": 16,
+      "supercategory": "Armor",
+      "name": "GreyArmorNone"
+    },
+    {
+      "id": 17,
+      "supercategory": "Armor",
+      "name": "BlueArmor1"
+    },
+    {
+      "id": 18,
+      "supercategory": "Base",
+      "name": "Base"
+    },
+    {
+      "id": 19,
+      "supercategory": "Armor",
+      "name": "GreyArmor7"
+    },
+    {
+      "id": 20,
+      "supercategory": "Armor",
+      "name": "BlueArmor8"
+    },
+    {
+      "id": 21,
+      "supercategory": "Armor",
+      "name": "BlueArmor6"
+    },
+    {
+      "id": 22,
+      "supercategory": "Armor",
+      "name": "GreyArmor3"
+    },
+    {
+      "id": 23,
+      "supercategory": "Armor",
+      "name": "GreyArmor2"
+    },
+    {
+      "id": 24,
+      "supercategory": "Armor",
+      "name": "BlueArmorNone"
+    },
+    {
+      "id": 25,
+      "supercategory": "Ignore",
+      "name": "Ignore"
+    },
+    {
+      "id": 26,
+      "supercategory": "Armor",
+      "name": "BlueArmor3"
+    },
+    {
+      "id": 27,
+      "supercategory": "Armor",
+      "name": "RedArmor4"
+    },
+    {
+      "id": 28,
+      "supercategory": "Armor",
+      "name": "GreyArmor1"
+    },
+    {
+      "id": 29,
+      "supercategory": "Armor",
+      "name": "RedArmor7"
+    },
+    {
+      "id": 30,
+      "supercategory": "Armor",
+      "name": "GreyArmor8"
+    },
+    {
+      "id": 31,
+      "supercategory": "Armor",
+      "name": "GreyArmor6"
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_5_1.jpg",
+      "height": 320
+    },
+    {
+      "id": 2,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_5_2.jpg",
+      "height": 320
+    },
+    {
+      "id": 3,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_5_3.jpg",
+      "height": 320
+    },
+    {
+      "id": 4,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_5_4.jpg",
+      "height": 320
+    },
+    {
+      "id": 5,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_4_5.jpg",
+      "height": 320
+    },
+    {
+      "id": 6,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_4_6.jpg",
+      "height": 320
+    },
+    {
+      "id": 7,
+      "width": 320,
+      "file_name": "VW_CH3ENTERPRIZEVsTaurus_BO2_1_4_7.jpg",
+      "height": 320
+    }
+  ]
+}

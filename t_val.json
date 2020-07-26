@@ -1,0 +1,203 @@
+{
+  "categories": [
+    {
+      "name": "Car",
+      "supercategory": "Car",
+      "id": 1
+    },
+    {
+      "name": "BlueArmor4",
+      "supercategory": "Armor",
+      "id": 2
+    },
+    {
+      "name": "RedArmor1",
+      "supercategory": "Armor",
+      "id": 3
+    },
+    {
+      "name": "RedArmor3",
+      "supercategory": "Armor",
+      "id": 4
+    },
+    {
+      "name": "RedArmor2",
+      "supercategory": "Armor",
+      "id": 5
+    },
+    {
+      "name": "RedArmor5",
+      "supercategory": "Armor",
+      "id": 6
+    },
+    {
+      "name": "Watcher",
+      "supercategory": "Watcher",
+      "id": 7
+    },
+    {
+      "name": "BlueArmor7",
+      "supercategory": "Armor",
+      "id": 8
+    },
+    {
+      "name": "BlueArmor5",
+      "supercategory": "Armor",
+      "id": 9
+    },
+    {
+      "name": "BlueArmor2",
+      "supercategory": "Armor",
+      "id": 10
+    },
+    {
+      "name": "RedArmorNone",
+      "supercategory": "Armor",
+      "id": 11
+    },
+    {
+      "name": "RedArmor8",
+      "supercategory": "Armor",
+      "id": 12
+    },
+    {
+      "name": "RedArmor6",
+      "supercategory": "Armor",
+      "id": 13
+    },
+    {
+      "name": "GreyArmor5",
+      "supercategory": "Armor",
+      "id": 14
+    },
+    {
+      "name": "GreyArmor4",
+      "supercategory": "Armor",
+      "id": 15
+    },
+    {
+      "name": "GreyArmorNone",
+      "supercategory": "Armor",
+      "id": 16
+    },
+    {
+      "name": "BlueArmor1",
+      "supercategory": "Armor",
+      "id": 17
+    },
+    {
+      "name": "Base",
+      "supercategory": "Base",
+      "id": 18
+    },
+    {
+      "name": "GreyArmor7",
+      "supercategory": "Armor",
+      "id": 19
+    },
+    {
+      "name": "BlueArmor8",
+      "supercategory": "Armor",
+      "id": 20
+    },
+    {
+      "name": "BlueArmor6",
+      "supercategory": "Armor",
+      "id": 21
+    },
+    {
+      "name": "GreyArmor3",
+      "supercategory": "Armor",
+      "id": 22
+    },
+    {
+      "name": "GreyArmor2",
+      "supercategory": "Armor",
+      "id": 23
+    },
+    {
+      "name": "BlueArmorNone",
+      "supercategory": "Armor",
+      "id": 24
+    },
+    {
+      "name": "Ignore",
+      "supercategory": "Ignore",
+      "id": 25
+    },
+    {
+      "name": "BlueArmor3",
+      "supercategory": "Armor",
+      "id": 26
+    },
+    {
+      "name": "RedArmor4",
+      "supercategory": "Armor",
+      "id": 27
+    },
+    {
+      "name": "GreyArmor1",
+      "supercategory": "Armor",
+      "id": 28
+    },
+    {
+      "name": "RedArmor7",
+      "supercategory": "Armor",
+      "id": 29
+    },
+    {
+      "name": "GreyArmor8",
+      "supercategory": "Armor",
+      "id": 30
+    },
+    {
+      "name": "GreyArmor6",
+      "supercategory": "Armor",
+      "id": 31
+    }
+  ],
+  "annotations": [
+    {
+      "area": 1377.0,
+      "iscrowd": 0,
+      "image_id": 3,
+      "bbox": [
+        90.74,
+        114.807,
+        51.0,
+        27.0
+      ],
+      "segmentation": [
+        [
+          90.74,
+          114.807,
+          141.44,
+          141.422
+        ]
+      ],
+      "id": 9,
+      "category_id": 17
+    },
+    {
+      "area": 26219.0,
+      "iscrowd": 0,
+      "image_id": 7,
+      "bbox": [
+        85.02,
+        5.811,
+        157.0,
+        167.0
+      ],
+      "segmentation": [
+        [
+          85.02,
+          5.811,
+          242.18,
+          173.107
+        ]
+      ],
+      "id": 19,
+      "category_id": 1
+    }
+  ]
+}
